@@ -1,1 +1,1 @@
-# dreamforce16
+# DREAMOFORCE16 RESOURCES - 'Salesforce Connect Custom Apex Adapters for Heroku Redis' by LUCIANO STRAGA
